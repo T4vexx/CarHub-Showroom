@@ -8,7 +8,7 @@
 </div>
 
 ## Observação
-As imagens não estão aparecendo, pois a api é paga e minha key teste se esgotou
+**As imagens não estão aparecendo, pois a api é paga e minha key teste se esgotou**
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
