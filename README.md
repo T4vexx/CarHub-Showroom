@@ -1,3 +1,16 @@
+# CarHub Showroom
+## Visual
+<div align="center">
+  <img src="https://github.com/T4vexx/CarHub-Showroom/assets/68335367/2593f6f8-acad-4f8d-ad25-f7ce40fac38f" />
+  <img src="https://github.com/T4vexx/CarHub-Showroom/assets/68335367/246d7700-32d6-4593-8857-898443402de6" />
+  <img src="https://github.com/T4vexx/CarHub-Showroom/assets/68335367/5e3ba289-b40d-4ce8-b424-92689214c246" />
+  <img src="https://github.com/T4vexx/CarHub-Showroom/assets/68335367/aa9c944c-7c62-4fc5-b5ef-cbbbbb45e8f4" />
+</div>
+
+## Observação
+As imagens não estão aparecendo, pois a api é paga e minha key teste se esgotou
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
